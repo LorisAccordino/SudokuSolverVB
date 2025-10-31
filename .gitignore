@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.ilk
+*.log
+*.tlog
+*.obj
+*.pch
+*.pdb
+*.ipch
+
+# Ignore build output
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Ignore Windows thumbnail cache
+Thumbs.db
